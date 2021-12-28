@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @shaileaf
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Python,Data Analysis with Python and SQl
+- 👀 I’m interested in data,Embedded systems, Ai
+- 🌱 I’m currently learning front-end web designing,react&Python
